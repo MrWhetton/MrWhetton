@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript, React Components, Swift(slowly)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Ask Fred or Will or uses Google chat
+- 📫 How to reach me ... Ask Fred or Will or use Google chat
 
 <!---
 MrWhetton/MrWhetton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
