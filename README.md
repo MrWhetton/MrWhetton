@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MrWhetton
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, React Components, Swift(slowly)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Ask Fred or Will or use Google chat
+- 👀 I’m interested in improving my C# and backend knowledge to then grow into a full stack developer
+- 🌱 I’m currently learning JavaScript and TypeScript
 
 <!---
 MrWhetton/MrWhetton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
